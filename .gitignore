@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.history/
+temp/
+node_modules/
+
