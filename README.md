@@ -1,1 +1,1 @@
-# Flashily.AI
+# Flashily.AI 📝
