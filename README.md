@@ -39,4 +39,5 @@ Experience a new dimension of learning with Flashily's audio playback feature. P
 5. Open your browser and visit http://localhost:3000 to access Flashily.
 
 _Happy learning with Flashily!_
+
 Made by Xingyu and Gauri
