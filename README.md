@@ -1,7 +1,12 @@
 # Flashily.AI 📝
 
 ## Demo
-[See Flashily in action](https://youtu.be/oe51EGW3-x0?si=3zTrO1IJJ6_46hkl)
+
+_See Flashily in action by clicking the image below!_
+
+<a href="https://youtu.be/oe51EGW3-x0?si=3zTrO1IJJ6_46hkl">
+  <img src="https://github.com/therealcyberlord/Flashily.AI/raw/main/image.jpg" alt="See Flashily in action" width="400" height="300">
+</a>
 
 ## Introduction
 Welcome to Flashily, the innovative flashcard app powered by OpenAI's GPT API! Flashily aims to simplify and enhance your learning experience by allowing you to effortlessly create flashcards from your documents in just a few clicks.
