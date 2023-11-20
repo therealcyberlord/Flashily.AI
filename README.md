@@ -11,7 +11,7 @@ Welcome to Flashily, the innovative flashcard app powered by OpenAI's GPT API! F
 Flashily makes it easy to turn your documents into flashcards. Simply upload your documents in popular formats such as PDF, DOCX, or TXT, and let the app automatically generate relevant flashcards.
 
 ### 2. OpenAI GPT API Integration
-We harnessed the power of OpenAI's GPT API to create high-quality flashcards. The app uses advanced natural language processing to extract key information from your documents and generate effective flashcards.
+We harnessed OpenAI's GPT API along with vector database chroma to create effective flashcards. 
 
 ### 3. User-Friendly Interface
 Flashily features an intuitive and user-friendly interface. Navigate effortlessly through the app, upload your documents, and create flashcards with just a few clicks.
@@ -28,9 +28,10 @@ Experience a new dimension of learning with Flashily's audio playback feature. P
 
 ## Getting Started
 1. Clone the repository: git clone https://github.com/therealcyberlord/Flashily.AI.git
-2. Install dependencies: npm install
+2. Install dependencies: ```npm install for the frontend``` and ```python install -r requirements.txt``` for the backend
 3. Set up your OpenAI API key: Obtain your API key from OpenAI and replace 'YOUR_API_KEY' in the .env file.
-4. Start the app: npm run dev
+4. Start the app: ```npm run dev``` for the frontend and ```python main.py``` for the backend
 5. Open your browser and visit http://localhost:3000 to access Flashily.
 
 _Happy learning with Flashily!_
+Made by Xingyu and Gauri
